@@ -1,0 +1,1 @@
+BasicTests.d: ../BasicTests.cxx
